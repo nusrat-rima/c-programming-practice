@@ -3,7 +3,8 @@
 ## 1. input-output
 ## 2. operators
 ## 3. if-else
-## 4. switch. loop - for, while, do while
+## 4. switch. 
+## 5. loop - for, while, do while
     - pattern related programs
     - series related programs (including fiboancci series, lucas series)
     - sum of digits, reverse, palindorme, armstrong
