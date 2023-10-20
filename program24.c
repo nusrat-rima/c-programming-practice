@@ -1,10 +1,11 @@
-// print all the finoacci numbers from 1 to 100
+// printing hello world using nested loop
 #include<stdio.h>
 int main()
 {
+    int count = 1;
     for (int i = 1; i<=5; i++){
         for (int j = 1; j <= 3; j++) {
-                printf("hello world\n");
+                printf("hello world : %d \n", count++);
         }
     }
     return 0;
