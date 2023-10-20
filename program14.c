@@ -1,7 +1,4 @@
-//WAP in C find area of a rectangle 
-#include<stdio.h>
-int main()
-{
+/
 
     float length, width, area;
     printf(" enter length = ");

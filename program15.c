@@ -1,6 +1,6 @@
-//WAP in C convert centigrade to farenhide
+ain(//WAP in C convert centigrade to farenhide
 #include<stdio.h>
-int main()
+int m)
 {
     float c, F;
     printf(" enter centigrade =");
