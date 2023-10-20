@@ -1,4 +1,4 @@
-//WAP in C number swapping without using temp variable 
+//n()WAP in C number swapping without using temp variable 
 #include<stdio.h>
 int main()
 {
@@ -11,5 +11,5 @@ int main()
     printf(" num1 = %d\n", num1);
     printf(" num2 = %d\n", num2);
     return 0;
-    
+
 }
