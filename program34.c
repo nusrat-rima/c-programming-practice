@@ -1,19 +1,13 @@
-int n, col, row;
-    printf("enter N = ");
-    include<stdio.h>
+#include<stdio.h>
 int main()
 {
-    canf("%d", &n);
-        for (row = 1; row <= n;row++){
+    int n, col, row;
+    printf("enter N = ");
+        scanf("%d", &n);
+        for (row = n; row>= 1;row--){
             for (col = 1; col <= row;col++){
-                printf("%c ", col + 64);
+                printf("%d ", col);
             }
             printf("\n");
         }
-}
-/*
-a 
-a b 
-a b c
-a b c d
-*/
+        }
