@@ -1,12 +1,12 @@
-#include<stdio.h>
+int n, col, row;
+    printf("enter N = ");
+    include<stdio.h>
 int main()
 {
-    int n, col, row;
-    printf("enter N = ");
-        scanf("%d", &n);
+    canf("%d", &n);
         for (row = 1; row <= n;row++){
             for (col = 1; col <= row;col++){
-                printf("%c ", col + 96);
+                printf("%c ", col + 64);
             }
             printf("\n");
         }
