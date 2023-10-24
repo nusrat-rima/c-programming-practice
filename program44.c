@@ -4,13 +4,6 @@ int main()
 {
     int grading[] = {20,30,40,50,60};
     printf("%d", grading[4]);
-    // psh koro shunen na ..
-    // emergency baire jacchi por
-    // okey safely jaiyen
-    // i love you 
-    // i hate you more my dear husband
-
-    // i love you more bye
 
     int numbers[5],
     sum = 0; // numbers[0], numbers[1], numbers[2]. numbers[3], numbers[4]
