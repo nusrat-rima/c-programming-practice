@@ -1,3 +1,4 @@
+// decalaring and printing a matrix
 #include <stdio.h>
 int main()
 {
