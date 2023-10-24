@@ -1,1 +1,1 @@
-&a[row][
+a[row][col] + b[r
