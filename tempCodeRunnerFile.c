@@ -1,1 +1,1 @@
- sizeof(a);
+&a[row][
