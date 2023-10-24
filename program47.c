@@ -1,8 +1,7 @@
-//array 
+// sum and average of an array 
 #include<stdio.h>
 int main()
 {
-
     int a [5], sum = 0, i;
     printf("enter 5 numbers = ");
     for (i = 0; i < 5;i++){
