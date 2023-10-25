@@ -19,9 +19,16 @@
 * prime number, multiplication table
 
 ## 6. function
-
+- how to declare and call function
+- passing parameters to function
+- return from a function
+- function programs
+    - calculator function
 ## 7. array
-
+- how to declare an array
+- how to access an array
+- types of array - 1d, 2d
+- matrix: addition, subtraction, multiplication
 ## 8. string
 
 ## 9. pointer
