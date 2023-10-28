@@ -23,6 +23,6 @@ int main()
             
     }
         printf("Minimum is %.2f\n", Min);
-        printf("Maximum iS %.1f\n", Max);
+        printf("Maximum is %.1f\n", Max);
         return 0;
     }
