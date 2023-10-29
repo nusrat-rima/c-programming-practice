@@ -13,8 +13,23 @@ int main()
     printf("\nEntered Matrix\n");
     for (i = 0; i < 3;i++){
         for(j = 0; j < 3;j++){
-            printf("%d", A[i][j]);
+            
+            printf("%d ", A[i][j]);
         }
     }
+    printf("\n");
+    for (i = 0; i < 3;i++){
+        for(j = 0; j < 3;j++){
+            if(i<j){
+                upperSum = upperSum + A[i][j];
+            }
+            if(i>j){
+                lowerSum = lowerSum + A[i][j];
+            }
+        }
+    }
+    printf("nsum of upperTriangle elements = %d\n", upperSum);
+    printf("nsum of lowerTriangle elements = %d\n",lowerSum);
+    
 }
 
