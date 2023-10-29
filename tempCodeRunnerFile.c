@@ -1,1 +1,1 @@
-a[row][col] + b[r
+  count++;
