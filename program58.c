@@ -1,4 +1,4 @@
-//calculation with array
+//calculation with array for sum,avg,max,min..
 #include<stdio.h>
 int main()
 {
