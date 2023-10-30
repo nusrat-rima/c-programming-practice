@@ -1,4 +1,4 @@
-//n()WAP in C number swapping without using temp variable 
+//n()WAP in C number swapping without using temp variable new 
 #include<stdio.h>
 int main()
 {
