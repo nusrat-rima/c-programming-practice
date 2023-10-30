@@ -1,3 +1,4 @@
+// printing even number 1 to 10
 #include <stdio.h>
 int main()
 {
