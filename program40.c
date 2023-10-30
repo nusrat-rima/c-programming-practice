@@ -1,3 +1,4 @@
+//using function for even and odd
 #include <stdio.h>
 
 void isEven(int number){
