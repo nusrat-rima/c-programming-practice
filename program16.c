@@ -1,4 +1,4 @@
-//WAP in C number swapping using temp variable 
+//WAP in c number swapping using temp variable 
 #include<stdio.h>
 int main()
 {
