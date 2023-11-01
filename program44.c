@@ -1,4 +1,4 @@
-// datatype arrayname[arraysize]
+//using Array for grading point calculation sum and average
 #include<stdio.h>
 int main()
 {

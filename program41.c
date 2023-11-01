@@ -1,4 +1,4 @@
-// write functions for addition, subtraction, multiplication, division, sqaure
+// write functions for addition, subtraction, multiplication, division
 #include <stdio.h>
 
 void add(int num1, int num2)

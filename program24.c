@@ -1,4 +1,4 @@
-// printing hello world using nested loop
+// printing hello world using nested loop in C
 #include<stdio.h>
 int main()
 {

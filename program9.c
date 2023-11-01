@@ -1,5 +1,5 @@
-// write a program that prints all the numbers
-// from m to n which is divisible by 3 or 5
+/* write a program that prints all the numbers
+ from m to n which is divisible by 3 or 5 */
 #include <stdio.h>
 int main()
 {
