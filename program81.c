@@ -9,7 +9,8 @@ int main()
         i++;
         len++;
     }
-    for (j = 0, i = len - 1; i >= 0, i--;j++){
+    for (j = 0, i = len - 1; i >= 0; i--, j++)
+    {
         str2[j] = str1[i];
     }
     str2[j] = '\0';
