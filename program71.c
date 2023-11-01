@@ -1,4 +1,4 @@
-//using string for counting numbers of digit,vowels,consonant,special char
+//using string for counting numbers of digit,vowels,consonant,special charecter
 #include<stdio.h>
 #include<string.h>
 int main()
