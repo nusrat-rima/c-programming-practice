@@ -3,9 +3,9 @@
 #include<string.h>
 int main()
 {
-    char text[] = "he 0406759900@"; // string ends with '\0'
+    char text[] = "he 0406759900@ anis"; // string ends with '\0'
 
-    int numOfVowel = 0, numOfConsonat=0,numOfDigits=0,numOfSpecialchar=0,numOfSpaces=0;
+    int numOfVowel = 0, numOfConsonat=0,numOfDigits=0,numOfSpecialchar=0,numOfSpaces=0,numOfwords=0;
     for (int i = 0; text[i] != '\0'; i++){
         if(text[i] == 'a' || text[i]=='e'|| text[i]=='i'|| text[i]=='o'||text[i]=='u'){
             numOfVowel++;
@@ -18,6 +18,7 @@ int main()
         }
         else if(text[i]==' '){
             numOfSpaces++;
+            numOfwords++;
         }
         else{
             numOfSpecialchar++;
@@ -28,6 +29,8 @@ int main()
     printf("number of Digits: %d\n", numOfDigits);
     printf("number of Special char: %d\n", numOfSpecialchar);
     printf("number of Spaces: %d\n",numOfSpaces);
+    printf("number of words: %d\n",numOfwords + 1);
+
 
 
 
