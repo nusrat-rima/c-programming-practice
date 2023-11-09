@@ -1,5 +1,7 @@
 // 1 2 3 4 ... 100  in between prime number
 #include <stdio.h>
+#include <math.h>
+
 int main()
 {
     int start, end;
@@ -16,7 +18,7 @@ int main()
             continue;
         }
         
-        for (int i = 2; i < number/2; i++)
+        for (int i = 2; i <= sqrt(number); i++)
         {
             if (number % i == 0)
             { //
